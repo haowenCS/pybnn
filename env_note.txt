@@ -1,0 +1,9 @@
+1. prerequisite:
+    0. matplotlib:
+       conda install matplotlib
+    1. latex:
+        ```
+        sudo apt install texlive texlive-latex-extra texlive-fonts-recommended dvipng
+        sudo apt install cm-super
+        pip install latex
+        ```
